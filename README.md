@@ -37,7 +37,7 @@
     <a href="https://instagram.com/aksr_aashish___" target="blank"><img src="https://img.shields.io/badge/@aksr_aashish___-30302f?style=flat&logo=instagram" /></a>
 </p>
 <details>
-    <summary>&#127942 <b>GitHub Awards</b></summary><br/>
+    <summary>&#127942 <b>GitHub Awards Of Axel</b></summary><br/>
 
 ![Github Trophy](https://github-profile-trophy.vercel.app/?username=aksr-aashish)
 
