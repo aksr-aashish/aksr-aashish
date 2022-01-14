@@ -1,6 +1,5 @@
 ![Axel <Aksr-Aashish](https://telegra.ph/file/6f852c1f9d74abde013cb.jpg)
 
-
 # About me
 - **Nama**  : `Aksr Aashish`
 - **From**: `Bihar`
@@ -9,13 +8,35 @@
 - **Work **  : Tech Mentor at Ancestor`
 - **Study**: `Bachlor Of computer Application #3 Year`
 
+## Tools
+- Arch Linux BTW
+- MongoDB
+- Git
+- Bash
+- Docker
+- Cloud Servers (Linode, GCP, DO, AWS)
+- VSCode
+- Android Studio (I am Learning)
+- NVim
+- nginX
+- Bless
 
+## My Interests
+- Linux
+- Scripting
+- Ricing my OS
+- Programming (Ittusa BSs)
+- Anime (not much but yes)
+    
+    
 ### Skills
 - Python (100%)
 - Java (100%)
 - C (100%)
 - C++ (90%)
 - Rust (50%) Still learning
+- C++
+- HTML
 
 
 ### Stats:
@@ -38,7 +59,14 @@
 </p>
 <details>
     <summary>&#127942 <b>GitHub Awards Of Axel</b></summary><br/>
+    
+ ## Contact Me
+<p><a href="https://t.me/aksr-aashish"><img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram" width="120""/></a></p>   
+    
 
+ ### About Me
+![git stats](https://github-readme-stats.vercel.app/api?username=aksr-aashish&show_icons=True&count_private=true&theme=tokyonight)
+![top lang](https://github-readme-stats.vercel.app/api/top-langs?username=aksr-aashish&show_icons=true&theme=tokyonight&layout=compact)
 ![Github Trophy](https://github-profile-trophy.vercel.app/?username=aksr-aashish)
 
 </details>
