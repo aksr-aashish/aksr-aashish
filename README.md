@@ -1,6 +1,6 @@
 
 
-<img src="https://telegra.ph/file/6f852c1f9d74abde013cb-350x233.jpg">
+<img src="https://telegra.ph/file/6f852c1f9d74abde013cb.jpg">
 
 ## Info
 
@@ -10,10 +10,13 @@ Hi There, I'm Axel aka aksr aashish , 19 Y.O. Friendly Neighbourhood Programmer 
 - **Nama**  : `Aksr Aashish`
 - **From**: `Bihar`
 - **Age**  : `18`
-- **Partner**   : <a href="https://www.digitalocean.com/?refcode=ca821556e751&utm_campaign=Referral_Invite&utm_medium=Referral_Program&utm_source=badge"><img src="https://web-platforms.sfo2.cdn.digitaloceanspaces.com/WWW/Badge%201.svg" alt="DigitalOcean Referral Badge" /></a>
 - **Work **  : Tech Mentor at Ancestor`
 - **Study**: `Bachlor Of computer Application #3 Year`
 -**Fun fact**: I like Cats
+
+- **Partner**   : 
+- 
+- <a href="https://www.digitalocean.com/?refcode=ca821556e751&utm_campaign=Referral_Invite&utm_medium=Referral_Program&utm_source=badge"><img src="https://web-platforms.sfo2.cdn.digitaloceanspaces.com/WWW/Badge%201.svg" alt="DigitalOcean Referral Badge" /></a>
 
 ## Where to find me
 
