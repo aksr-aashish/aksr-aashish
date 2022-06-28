@@ -64,7 +64,6 @@ Hi There, I'm Axel aka aksr aashish , 19 Y.O. Friendly Neighbourhood Programmer 
 
 ![Stats](https://github-readme-stats.vercel.app/api?username=aksr-aashish&show_icons=true&count_private=true&hide_border=True&include_all_commits=true&theme=github_dark)  ![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=aksr-aashish&layout=compact&theme=github_dark)
 
-[![Github streak](https://github-readme-streak-stats.herokuapp.com/?user=aksr-aashish&theme=cobalt)](https://github.com/aksr-aashish/github-readme-streak-stats)
 
 </details>
 
